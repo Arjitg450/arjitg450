@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Anomaly Detection in 5G using ML/AI as a MTech Research Student<br>💬 Ask me about the intersection of Security, 5G and AI. <br>⚡ DFT does Matrix Multiplication in O(nlogn).
+🔭 I’m currently working on Anomaly Detection in 5G using ML/AI as a MTech Research Student<br>💬 Ask me about the intersection of Security, 5G and AI. <br>⚡Fun Fact: DFT does Matrix Multiplication in O(nlogn).
 
 
 ## 🌐 Socials:
